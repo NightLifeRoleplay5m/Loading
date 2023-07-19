@@ -1,3 +1,22 @@
 - New Loading Screen added
-- Added ERPT Ford Focus Active
-- Added ERPT Unmarked Ford Focus Active
+- Grove Street Revamp
+For the first time ever, NLRP now features custom interiors for grove street! Nearly every house at the bottom of grove street features a custom interior and each house has underground tunnels that lead to a secret area along with an escape path. Grove street will remain without a safe zone per a community vote in our gangs discord.
+
+- New Wheel Options
+We have added over 100+ custom wheel options! Simply go into the F1 vehicle mods, change the wheel type to high end and towards the end of that category, custom wheel options will appear.
+
+- New Gang Locations
+Two new gang locations have been added in-game! At postal 707, a white widow drug store has been added for gangs and civilians to roleplay. Also, a taco shop called Taco Libre has been added at postal 697 featuring a secret meth lab. Note that these locations are primarily for gangs so unwanted civilians messing around are subject to KOS.
+
+- Un-Zip and Unbag Prompts
+After many requests, we have finally added prompts to unzip and remove the bag over a player's head. Simply walk near a player that is either zip-tied or has a bag over their head to view the prompts.
+
+- Revamped Cuff & Drag Functions
+For our Whitelisted LEO, the cuff & drag functions have been revamped. Cuffing is now more accurate, no longer bugs out and has been patched so that civilians can no longer cuff via an exploit. Along with this, our dragging has been improved making it much more accurate when attempting to drag a player.
+
+- Misc Bug Fixes
+The HUD time will no longer get stuck at 0:00; has now been fixed to perform correctly.
+Attempting to /carry while dead is now disabled, must be alive to carry.
+Carbine Rifle is no longer restricted for Certified Civilians
+Trump trucks no longer weigh 14,000 pounds
+If stuck in ragdoll, a prompt will appear with a keybind to get out of ragdoll
